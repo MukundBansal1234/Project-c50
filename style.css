@@ -1,0 +1,20 @@
+.header *{
+    display:flex;
+    justify-content:space-between;
+   background-color:black;
+   color:white;
+}
+h1,h3{
+    text-align:center;
+}
+.origami1 {
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    
+
+}
+.origami2{
+    padding:50px;
+    border: solid 2px black;
+}
